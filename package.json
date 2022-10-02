@@ -1,0 +1,16 @@
+{
+  "name": "dynamodb-crud-operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "table-ops.js",
+  "scripts": {
+    "start": "node table-ops.js",
+    "dev": "nodemon table-ops.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1227.0"
+  }
+}
