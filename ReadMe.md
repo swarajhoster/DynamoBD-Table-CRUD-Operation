@@ -1,4 +1,4 @@
-# CRUD operations with dynamoDB Tables
+# **CRUD Operations With DynamoDB Table**
 
 ## **About the project**
 - This Repo is covers the Basic CRUD operations with dynamoDB, with some custom error handling and custom error messages.
