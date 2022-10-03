@@ -1,12 +1,12 @@
-# **CRUD Operations With DynamoDB Table**
+# **CRUD Operations With DynamoDB Table & Items**
 
 ## **About the project**
-- This Repo is covers the Basic CRUD operations with dynamoDB, with some custom error handling and custom error messages.
+- This Repo is covers the Basic CRUD operations with **dynamoDB (tables | items)**, with some custom error handling and custom error messages.
 
 
 ## **Prerequisites To Start**  
-- AWS account
-- AWS configured on **SYSTEM VARIABLES**
+- AWS Account
+- AWS Configured on **Environment VARIABLES**
 
 
 #
@@ -21,8 +21,10 @@ npm install
 
 #### Folder Structure
 
-```yaml
+```
+- item-ops.js
 - table-ops.js
+- .gitignore
 - package.json
 - package-lock.json
 ```
